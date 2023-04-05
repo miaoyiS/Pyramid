@@ -20,6 +20,8 @@ android {
                 install "requests==2.27.1"
                 install 'pycryptodome'
                 install 'beautifulsoup4'
+                install 'js2py'
+                
             }
         }
     }
